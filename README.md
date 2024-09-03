@@ -1,6 +1,2 @@
-# vxdemo25
-Demo ex 2025
-
-
-Coming soon..
-Разбор демо 2025
+# Lectures
+Лекции по предмету БКС :/
